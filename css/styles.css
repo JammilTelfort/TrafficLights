@@ -1,0 +1,75 @@
+h1{
+
+	background-color: darkturquoise;
+	text-align: center;
+	font-size: 18pt;
+}
+
+
+#bigOrangeSquare{
+
+	background-color: orange;
+	height: 350px;
+	margin-left: 45%;
+	margin-right: 45%;
+	width: 10%;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+
+.light{
+
+	border: 3px solid black;
+	width: 100px;
+	height: 100px;
+	margin-left: 45.25%;
+	border-radius: 50px;
+	position: absolute;
+}
+
+#red{
+	top: 60px;
+	background-color: darkred;
+
+}
+
+#yellow{
+	top: 170px;
+	background-color: darkkhaki;
+
+}
+
+#green{
+	top: 280px;
+	background-color: darkgreen;
+}
+
+
+.myButton{
+	border: 4px solid black;
+	width: 150px;
+	height: 30px;
+	text-align: center;
+	font-size: 18pt;
+	border-radius: 15px;
+	float: left;
+
+}
+
+#marginizer{
+	margin-left: 31.5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
